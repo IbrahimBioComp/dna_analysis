@@ -1,6 +1,6 @@
 # DNA Sequence Analysis in Bioinformatics
 
-This guide will explain each part of the Python code used to analyze DNA sequences. The code performs three main tasks: counting nucleotides, finding the reverse complement, and calculating the GC content of a DNA sequence.
+This guide will explain each part of the Python code used to analyse DNA sequences. The code performs three main tasks: counting nucleotides, finding the reverse complement, and calculating the GC content of a DNA sequence.
 
 ## 1. Counting Nucleotides
 
