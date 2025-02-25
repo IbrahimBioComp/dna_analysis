@@ -81,4 +81,4 @@ print(f"GC Content: {gc_content_percentage:.2f}%")
 - **Function Calls:** The functions `count_nucleotides`, `reverse_complement`, and `gc_content` are called with the `example_dna_sequence` to perform the analysis.
 - **Print Results:** The results of the analysis are printed to the console.
 
-By running this code, you can analyze different DNA sequences to get the counts of each nucleotide, the reverse complement, and the GC content percentage.
+You can analyse different DNA sequences to get the counts of each nucleotide, the reverse complement, and the GC content percentage by running the codes above.
